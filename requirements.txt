@@ -1,0 +1,7 @@
+pip
+numpy
+pandas
+#matplotlib
+sklearn
+statsmodels
+#pmdarima
